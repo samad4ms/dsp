@@ -191,8 +191,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
-
+> What changed? Looks like units of measurement were added to the file sizes. 
 If instead copying we just want to change the name of a file, we can do:
 
 
