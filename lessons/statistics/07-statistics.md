@@ -101,7 +101,9 @@ bayes = (1/300)*(1/2)/(1/125)
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> 
+
+Both have to do with methods of statistical inference. However, Frequentists believe only repeatable random events (long-term frequencies) have probabilities, whereas Bayesian inference is rooted in degrees of belief and logical support. In other words, Bayesian inference allows non repeatable events to have a probability, like a certain candidate winning a presidential election, whereas frequentists would not attach a probability to this since it cannot be repeated easily and numerously in real life. 
 
 ---
 
